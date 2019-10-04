@@ -1,0 +1,11 @@
+{
+  "name": "clasesnodejs",
+  "version": "1.0.0",
+  "description": "Ejemplo de clases con NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "linaresbda",
+  "license": "ISC"
+}
